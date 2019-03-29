@@ -7,3 +7,8 @@
 	path = Yaroslab/v12_pos_yaros
 	url = git@github.com:Yaroslab/v12_pos_yaros.git
 	branch = dev
+
+[submodule "Yaroslab/v12_invoicing_yaros"]
+	path = Yaroslab/v12_invoicing_yaros
+	url = git@github.com:Yaroslab/v12_invoicing_yaros.git
+	branch = dev
